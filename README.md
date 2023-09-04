@@ -6,7 +6,7 @@ Cute cat keyboard made for the first challenge of Wes Bos #Javascript30. It's my
 
 Use your computer keyboard or click the piano keys to play the meow piano. Have fun!
 
-:rocket: Demo <a href='https://celestef00.github.io/meow-keyboard/'>  here </a>
+:rocket: Demo <a href='https://celescript.github.io/meow-keyboard/'>  here </a>
 
 <h3> Tools </h3>
 
